@@ -3,6 +3,7 @@
 - Dumps DPMT projects to Trello. 
 - The goal is to have a better user interface for selecting the project. 
 - All of this **code is dirty shit** that should have never been written. Sorry.
+- It might not work for you. Sorry. Try debugging it.
 
 
 
