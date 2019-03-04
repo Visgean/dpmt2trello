@@ -1,5 +1,9 @@
 .idea/
-.direnv
+.envrc
+added_projects
+cookie.txt
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
