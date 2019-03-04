@@ -19,7 +19,6 @@ with open('cookie.txt') as f:
             cookies[name.strip()] = val
 
 
-
 def get_project_list():
     api_response = requests.get(LIST_URL, cookies=cookies)
     api_response.raise_for_status()
